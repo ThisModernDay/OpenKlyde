@@ -19,7 +19,7 @@ If you want to generate images, you'll also need Automatic1111 Stable Diffusion 
 Download Automatic1111 here:
 [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-----NEW----: 
+----NEW----:
 
 XTTS support added thanks to Elbios's changes in their fork!
 

@@ -1,3 +1,8 @@
+llama-cpp-python
+llama-cpp-python[server]
 discord
 httpx
 pillow
+requests
+aiohttp
+xtts-api-server
