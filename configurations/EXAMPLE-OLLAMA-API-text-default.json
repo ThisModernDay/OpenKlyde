@@ -1,9 +1,8 @@
 {
-    "name": "o",
+    "name": "ollama",
     "address": "http://localhost:11434/api/",
+    "model": "llama2:latest",
     "generation": "generate",
-    "model": "mistral",
-    "prompt": "",
     "headers": {
         "Accept": "application/json",
         "Content-Type": "application/json"
