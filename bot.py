@@ -35,8 +35,7 @@ from discord import Interaction
 
 # API Keys and Information
 # Your API keys and tokens go here. Do not commit with these in place!
-# discord_api_key = "PUT_YOUR_API_KEY_HERE"
-discord_api_key = "MTIyNTA4NzM2Njk2MDUxMzA1NQ.GI4TjZ.oHJTVnGQx6ftMOxA3Qmmfce34dAhJFABAG65pU"
+discord_api_key = "PUT_YOUR_API_KEY_HERE"
 
 
 # Flag to enable TTS (XTTS) - use --tts when launching
